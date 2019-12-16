@@ -1,8 +1,22 @@
 body {
-  padding: 50px;
+  padding: 1%;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: tan;
 }
 
 a {
-  color: #00B7FF;
+  color: orchid;
+}
+
+
+h1 {
+	color: brown;
+	background-color: gray;
+	padding: 1%;
+}
+
+p {
+	color: yellow;
+	background-color: gray;
+	padding: 1%;
 }
